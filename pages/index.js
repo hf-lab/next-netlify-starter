@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
+        Learn English and IELTS Test at  <a href="https://www.ieltsclue.com/">IELTS Clue</a>
         </p>
       </main>
 
